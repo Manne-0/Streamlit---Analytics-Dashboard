@@ -1,0 +1,9 @@
+# Ignore temp files and system files
+~$*
+desktop.ini
+.vscode/
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
