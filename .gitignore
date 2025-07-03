@@ -4,6 +4,10 @@ desktop.ini
 .vscode/
 __pycache__/
 *.pyc
+test.ipynb
 
 # Ignore virtual environment
 venv/
+
+# Ignore test file
+test.ipynb
